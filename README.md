@@ -27,19 +27,19 @@ console.log(nameRegex.test(name4));  // true (förnamn och efternamn fungerar oc
 
 
 
-## 1. Validera E-postadress
+ 1. Validera E-postadress
 
-## 2. Validera Telefonummer
+ 2. Validera Telefonummer
 
-## 3. Validera Lösenord (minst 8 tecken, en bokstav, en siffra, och ett specialtecken)
+ 3. Validera Lösenord (minst 8 tecken, en bokstav, en siffra, och ett specialtecken)
 
-## 4. Validera URL
+ 4. Validera URL
 
-## 5. Validera Postnummer (svenskt format)
+ 5. Validera Postnummer (svenskt format)
 
-## 6. Validera Ålder (mellan 18 och 100 år)
+ 6. Validera Ålder (mellan 18 och 100 år)
 
-## 7. Skapa ett formulär med HTML + JavaScript Formulär med RegEx Validering.
+ 7. Skapa ett formulär med HTML + JavaScript Formulär med RegEx Validering.
 Vi kommer att skapa ett formulär där användaren måste fylla i följande fält:
     - E-postadress
     - Telefonnummer
